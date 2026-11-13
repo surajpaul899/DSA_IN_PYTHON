@@ -38,5 +38,10 @@ class Solution(object):
 m1 = Solution()
 print(m1.merge_sort([5,1,3,8,0,9,6,2,4]))
         
-        
+<h1>Time and the Space Complexity for the Merge short:</h1>
+# For the worst,best.avgerage case the Time Complexity is -o(nlog2n)
+# Base 2 is used for each function call the function is devided into the two equal parts.
+#For the worst,best,average case the Space complexity is -o(n).
+
+
         
